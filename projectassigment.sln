@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projectassigment", "projectassigment\projectassigment.csproj", "{A7335108-FAD7-4FFB-8864-4F202BCF6447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTriangale", "NunitTriangale\NunitTriangale.csproj", "{4DCD0780-6594-4E96-B68F-FF70088891E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7335108-FAD7-4FFB-8864-4F202BCF6447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7335108-FAD7-4FFB-8864-4F202BCF6447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7335108-FAD7-4FFB-8864-4F202BCF6447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7335108-FAD7-4FFB-8864-4F202BCF6447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCD0780-6594-4E96-B68F-FF70088891E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCD0780-6594-4E96-B68F-FF70088891E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCD0780-6594-4E96-B68F-FF70088891E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCD0780-6594-4E96-B68F-FF70088891E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17D9C662-DD56-417D-8786-ACFE99250810}
+	EndGlobalSection
+EndGlobal
